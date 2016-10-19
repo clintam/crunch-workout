@@ -28,7 +28,9 @@ The deliverable should contain the following:
 
 ## About the tools
 
-We only have one hard requirement: AngularJS.
+* Started with angular/quickstart (angular 2 using typescript)
+ * Start app with `npm start`
+ * Run tests with `npm run test-once`
 
 ## Deliverable
 

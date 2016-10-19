@@ -1,0 +1,6 @@
+<div *ngIf="order && variables" class="col-sm-4">
+	<cr-order-node *ngFor="let node of order.getRoot().getChildren()" 
+                       [node]="node"
+                       [variables]="variables">
+	</cr-order-node>
+</div>
