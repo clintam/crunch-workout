@@ -34,4 +34,7 @@ The deliverable should contain the following:
 
 ## Deliverable
 
-Publish your work in a GitHub repository.
+Find unit tests under app/*.spec.js
+Find end2end test under e2d
+
+![result](result.png)
